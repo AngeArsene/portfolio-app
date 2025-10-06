@@ -1,7 +1,7 @@
 {
   "name": "portfolio-website-app",
-  "homepage": "https://angearsene.github.io/portfolio-app/",
-  "private": true,
+  "homepage": "https://angearsene.github.io/portfolio-app",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
