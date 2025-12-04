@@ -121,6 +121,11 @@ export default {
         description: 'Outil qui valide les numéros de téléphone et les trie pour les campagnes WhatsApp',
         tech: ['PHP', 'Traitement Excel', 'API WhatsApp'],
       },
+      {
+        name: "Passerelle de Paiement WooCommerce Smobilpay",
+        description: "Plugin de passerelle de paiement permettant les transactions MTN MoMo et Orange Money pour les commerçants camerounais avec webhooks automatisés et notifications bilingues",
+        tech: ["PHP", "Développement de Plugin WordPress", "API WooCommerce", "Intégration de Passerelle de Paiement", "API REST"]
+      },
     ],
     websites: [
       {

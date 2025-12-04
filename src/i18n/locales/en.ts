@@ -121,6 +121,11 @@ export default {
         description: 'Tool that validates phone numbers and sorts them for WhatsApp campaigns',
         tech: ['PHP', 'Excel Processing', 'WhatsApp API'],
       },
+      {
+        name: "WooCommerce Smobilpay Gateway",
+        description: "Payment gateway plugin enabling MTN MoMo and Orange Money transactions for Cameroon merchants with automated webhooks and bilingual notifications",
+        tech: ["PHP", "WordPress Plugin Development", "WooCommerce API", "Payment Gateway Integration", "REST API"]
+      },
     ],
     websites: [
       {

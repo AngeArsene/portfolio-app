@@ -9,6 +9,7 @@ import './i18n';
 
 const projectLinks = {
   'WhatsApp Marketing Automation Package': 'https://github.com/AngeArsene/woowa-webhooks',
+  'WooCommerce Smobilpay Gateway': 'https://github.com/AngeArsene/wc-smobilpay',
   'Custom PHP MVC Framework': 'https://github.com/AngeArsene/php_mvc_framework',
   'Task Management System': 'https://github.com/AngeArsene/TaskFlow',
   'WhatsApp Campaign Hub': 'https://github.com/AngeArsene/WhatsApp_Campaign_Hub',
