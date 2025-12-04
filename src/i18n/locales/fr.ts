@@ -56,6 +56,7 @@ export default {
       achievements: [
         "J'ai créé un site Web de commerce électronique multifournisseur avec WordPress WooCommerce, WCFM, WP Bakery Page Builder et le thème Woodmart",
         "Développé des packages PHP évolutifs pour l'automatisation du marketing WhatsApp, la passerelle de paiement MTN MoMo, etc.",
+        "Développé une passerelle de paiement WooCommerce supportant MTN Mobile Money et Orange Money via l'API Smobilpay S3P avec webhooks automatisés et notifications bilingues",
         "Conçu des interfaces utilisateur réactives et une expérience utilisateur intuitive pour améliorer l'engagement des utilisateurs",
         'Automatisation des flux de travail (Vérificateur Excel WhatsApp, Automatisation Prospecteur)',
         'Livraison de projets de bout en bout avec supervision minimale',
